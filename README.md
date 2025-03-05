@@ -6,7 +6,7 @@
 
 ## 📄 About Me
 
-Hello, folks. My name is Sauqi. I am a graduate in a bachelor degree from Brawijaya University, Mechanical Engineering. I switched my career to programming field. I have an experience as a backend developer using java springboot technologies in monolitich project. I also posses several tech skills such as javascript, python, laravel, docker, R programming, tableau, and microsoft power BI. My short term goal is to become a senior backend developer with skilled english language in 2 years. My long term goal is to become a private teacher that still related to programming.
+Hello, folks. My name is Sauqi. I am a graduate in a bachelor degree from Brawijaya University, Mechanical Engineering. I switched my career to programming field. I have an experience as a backend developer using java springboot technologies in monolitich project. I also posses several tech skills such as html, css, tailwind css, javascript, python, docker, R programming, tableau, and microsoft power BI. My short term goal is to become a senior backend developer with skilled english language in 2 years. My long term goal is to become a private teacher that still related to programming.
 
 ---
 
