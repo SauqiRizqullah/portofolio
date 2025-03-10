@@ -32,4 +32,5 @@ Hello, folks. My name is Sauqi. I am a graduate in a bachelor degree from Brawij
 
 ### 📜 JavaScript
 - **[HTML5-Input-Types](https://github.com/SauqiRizqullah/html5-input-types)**
+- **[JSON-Parse](https://github.com/SauqiRizqullah/json-parse)**
 
