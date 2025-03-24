@@ -1,6 +1,6 @@
 # MUHAMMAD SAUQI RIZQULLAH
 
-**Full Stack Developer** | [LinkedIn](https://www.linkedin.com/in/muhammadsauqirizqullah/) | [Email](sauqi.risqullah@gmail.com)
+**Full Stack Developer** | [LinkedIn](https://www.linkedin.com/in/muhammadsauqirizqullah/) | [Email](sauqi.risqullah@gmail.com) | [WhatsApp](https://wa.me/6281398822501)
 
 ---
 
