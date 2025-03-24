@@ -35,4 +35,4 @@ Hello, folks. My name is Sauqi. I am a graduate in a bachelor degree from Brawij
 - **[JSON-Parse](https://github.com/SauqiRizqullah/json-parse)**
 
 ### 🚀 Next.js
-- **[Simple-Website](https://github.com/SauqiRizqullah/nextjs-simple-profile)**
+- **[Simple-Profile-Website](https://github.com/SauqiRizqullah/nextjs-simple-profile)**
