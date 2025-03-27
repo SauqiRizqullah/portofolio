@@ -36,3 +36,4 @@ Hello, folks. My name is Sauqi. I am a graduate in a bachelor degree from Brawij
 
 ### 🚀 Next.js
 - **[Simple-Profile-Website](https://github.com/SauqiRizqullah/nextjs-simple-profile)**
+- **[Landing-Page](https://github.com/SauqiRizqullah/landing-page)**
